@@ -1,0 +1,21 @@
+# Ignore node_modules directory
+backend-hackerrank/node_modules/
+
+# Ignore wrangler.toml file
+backend-hackerrank/wrangler.toml
+
+# Ignore problem_solution_links.json file
+problem_solution_links.json
+
+# Ignore codes.json file
+codes.json
+
+# Ignore scraper.js file
+scraper.js
+
+# Ignore solutions.csv file
+solutions.csv
+
+node_modules
+
+Hackerrank automation.mp4
